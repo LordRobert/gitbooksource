@@ -6,7 +6,7 @@ script: npm run build
 
 deploy:
   local_dir: _book
-  repo: LordRobert.github.io
+  repo: LordRobert/LordRobert.github.io
   target_branch: master
   provider: pages
   skip_cleanup: true

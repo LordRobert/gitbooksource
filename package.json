@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gitbook": "^2.6.9",
+    "gitbook": "^3.2.3",
     "gitbook-cli": "^2.3.2"
   }
 }
